@@ -1,13 +1,13 @@
 # McBerpad
-#Inspiration du projet 
+Inspiration du projet 
 
-##Titre : 
+Titre : 
 Développer et vendre une API Python - tutoriel du début à la fin
 
-##Auteur : 
+Auteur : 
 Daniel Deutsch
 
-##Lien de Git : 
+Lien de Git : 
 https://github.com/Createdd/pandas_transform_format
 
 Introduction
